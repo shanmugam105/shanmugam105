@@ -24,7 +24,7 @@
 
 ## 📫 How to reach me:
 - [Email](mailto:shanmugarajeshwaranr@gmail.com)
-- [Github](https://www.github.com/shanmugam105)
+- [Github](https://www.github.com/nova-corp)
 - [Stackoverflow](https://stackoverflow.com/users/11026625/shanmugarajeshwaran-r)
 - [LinkedIn](https://www.linkedin.com/in/reach-to-shan)
 - [Instagram](https://www.instagram.com/sharveshwaran.r)
