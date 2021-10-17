@@ -29,11 +29,11 @@
 - [LinkedIn](https://www.linkedin.com/in/reach-to-shan)
 - [Instagram](https://www.instagram.com/sharveshwaran.r)
 ##
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shanmugam105&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugam105)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=shanmugam105&show_icons=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugam105)](#)
 
-![Visits](https://badges.pufler.dev/visits/shanmugam105/shanmugam105?style=rounded-square&color=material&logo=github)
-![Years](https://badges.pufler.dev/years/shanmugam105?style=rounded-square&color=material&logo=github)
+[![Visits](https://badges.pufler.dev/visits/shanmugam105/shanmugam105?style=rounded-square&color=material&logo=github)](#)
+[![Years](https://badges.pufler.dev/years/shanmugam105?style=rounded-square&color=material&logo=github)](#)
 
 ##
 > ⚡ Fun fact: I'm Electronincs and Communication Engineer
