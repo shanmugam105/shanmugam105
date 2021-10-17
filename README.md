@@ -39,4 +39,4 @@
 > ⚡ Fun fact: I'm Electronincs and Communication Engineer
 
 ##
-## Let me know if you want my help, Bye 👋
+## Let me know if you want any help, Bye 👋
